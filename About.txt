@@ -1,0 +1,2 @@
+This is the E-commerce portal.
+Users can search and place their orders.
