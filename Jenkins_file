@@ -11,6 +11,5 @@ node{
     stage('Payment')
     {
         echo "Please pay the required amount"
-    }
-    
+    }  
 }
