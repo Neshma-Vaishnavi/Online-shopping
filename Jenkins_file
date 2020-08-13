@@ -1,0 +1,16 @@
+node{
+
+    stage('SCM Checkout')
+    {
+         git 'https://github.com/Neshma-Vaishnavi/Online-shopping'
+    }
+    stage('E-Commerce Application')
+    {
+        echo "Welocome to E-Commerce Application"
+    }
+    stage('PAyment')
+    {
+        echo "Please pay the required amount"
+    }
+    
+}
