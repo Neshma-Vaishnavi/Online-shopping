@@ -2,7 +2,6 @@
 session_start();
 include("../db.php");
 
-
 if(isset($_POST['btn_save']))
 {
 $product_name=$_POST['product_name'];
